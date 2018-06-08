@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-06-02 09:18:11" name="acoustic" targetId="01cfb9764c4b4c9a8d33c6cd9be8e76d" version="2.0" />
+  </TargetSet>
+</QCARInfo>
